@@ -1,7 +1,7 @@
 My Career
-1. Koreatech 컴퓨터공학부 졸업 ~2017.02
+### Koreatech 컴퓨터공학부 졸업 ~2017.02
 
-2. BankwareGlobal (Finance System Integrition) 2017.01~2018.08
+### BankwareGlobal (Finance System Integrition) 2017.01~2018.08
 
   Role: Product Factory System 개발 및 유지보수
   
@@ -29,8 +29,7 @@ My Career
         
   기술스택: Java 1.6, Oracle Database, Mybatis, Jack(Profiling Tool), BXM(Eclipse Tool), svn, Jeus(WAS), ChangeFlow, Jenkins, Redmine
   
-
-3. SamsungElectronic 2018.08~
+### SamsungElectronic 2018.08~
 
   Role: MACS 반도체 물류 모니터링 시스템 개발 및 유지보수
   
