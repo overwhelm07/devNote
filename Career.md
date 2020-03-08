@@ -31,7 +31,11 @@ My Career
   
 ### SamsungElectronic 2018.08~
 
-  Role: MACS 반도체 물류 모니터링 시스템 개발 및 유지보수
+  Role: 반도체 물류 모니터링 시스템 개발 및 유지보수
+     
+       1) 실시간 Data Streaming 환경에서 Data관리 및 Visualization
+        
+     
   
   
   
