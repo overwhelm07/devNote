@@ -1,7 +1,7 @@
 My Career
 ### Koreatech 컴퓨터공학부 졸업 ~2017.02
 
-### BankwareGlobal (Finance System Integrition) 2017.01~2018.08
+### BankwareGlobal (Finance System Integration) 2017.01~2018.08
 
   Role: Product Factory System 개발 및 유지보수
   
